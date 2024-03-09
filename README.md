@@ -1,4 +1,4 @@
-### Hello Welcome to Biogen Molecular Informatics GitHub
+### Welcome to Biogen Molecular Informatics GitHub
 
 <!--
 **molecularinformatics/molecularinformatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
